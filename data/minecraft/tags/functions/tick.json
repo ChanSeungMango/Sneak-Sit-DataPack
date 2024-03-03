@@ -1,0 +1,7 @@
+{
+    "values": [
+        "command:sneak_sit/quick_sit",
+        "command:sneak_sit/sit/commands",
+        "command:sneak_sit/sit/toggle"
+    ]
+}
